@@ -20,7 +20,7 @@
     <string name="ui_text_hint_input">Input your post here</string>
     <string name="ui_button_post_title">Post</string>
     <string name="ui_button_refresh_title">Refresh</string>
-    <string name="server_addr">https://apex-cloud.appspot.com</string>
+    <string name="server_addr">https://ex-cloud.appspot.com</string>
 
     <!-- Activity detection strings -->
     <string name="in_vehicle">In a vehicle</string>

@@ -45,7 +45,7 @@ public class PostActivity extends AppCompatActivity {
 	 * Substitute you own sender ID here. This is the project number you got
 	 * from the API Console.
 	 */
-	private String SENDER_ID = "apex-cloud";
+	private String SENDER_ID = "53253510539";
 
 	private static final String TAG = "PostActivity";
 	private EditText mHistoryText;
